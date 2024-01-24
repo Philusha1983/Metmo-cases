@@ -1,7 +1,8 @@
 #Metmo 3d printed cases
 
-### 3d models:
+By designing these cases as a fun project, I was able to learn the ins and outs of 3D modeling for printing. It was a great way to exercise my creativity and gain valuable skills in a new technology.3d models:
 driver case:https://collaborate.shapr3d.com/v/x_RzPMHDT7ZXdtBdDrrMY
+
 grip case:https://collaborate.shapr3d.com/v/zHcVzic2rmKiWOqOTxSwe
 
 ### Magnets for Metmo 3d printed cases:
